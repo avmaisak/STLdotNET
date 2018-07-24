@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace QuantumConcepts.Formats.StereoLithography
+namespace QuantumConcepts.Formats.STL
 {
     public static class Extensions
     {

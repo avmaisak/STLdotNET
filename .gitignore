@@ -9,3 +9,4 @@ TestResults
 *.svn
 *.suo
 *.user
+/Source/.vs
